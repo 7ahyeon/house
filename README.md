@@ -12,7 +12,7 @@
 + **판매자**: 판매상품 조회, 등록, 수정, 삭제
 ## 개발 환경
 + **프로젝트 기간**: 2022.10.14 ~ 2022.10.31
-+ **개발 웹서버**: Apache Tomcat 8.0
++ **개발 웹서버**: Apache Tomcat 9.0
 + **개발 툴**: Eclipse IDE, Oracle SQL Developer
 + **사용 언어**: Java(JDK 1.8), SQL, JSP & Servlet, HTML/CSS, JavaScript
 ## 역할 분담
