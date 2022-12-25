@@ -4,22 +4,26 @@
 ![주제](https://user-images.githubusercontent.com/80879666/199147728-4e32c104-48b9-4af8-91ed-c642aa92d40c.png)
 인테리어 사진과 정보를 공유하고 질문 답변을 할 수 있는 **커뮤니티 기능**과 원하는 인테리어 용품을 구매하고 판매할 수 있는 **쇼핑몰 기능**을 모두 사용할 수 있는 인테리어 플랫폼 웹사이트
 ## 메뉴 구성
+![5](https://user-images.githubusercontent.com/107123698/209478202-bdfd1456-0935-43bf-bb0a-99c90c784fb2.png)
+
 + **회원 관리**: 회원가입, 로그인, 아이디 찾기, 비밀번호 재설정, 판매자 신청, 회원정보 수정, 비밀번호 변경, 회원탈퇴
 + **커뮤니티**: 커뮤니티홈, 사진 게시판, 노하우 게시판, 질문 답변 게시판, 고객센터
 + **스토어**: 스토어홈, 카테고리, 베스트, 기획전, 상품 상세보기, 주문/결제, 문의/리뷰, 장바구니
 + **마이페이지**: 작성한 글과 댓글 조회, 스크랩 목록 조회 
 + **나의쇼핑**: 주문/배송내역 조회, 문의내역 조회, 포인트 조회
 + **판매자**: 판매상품 조회, 등록, 수정, 삭제
+
 ## 개발 환경
+![3](https://user-images.githubusercontent.com/107123698/209478215-a2ea7590-8538-47bc-89ac-8798c6f28685.png)
+
 + **프로젝트 기간**: 2022.10.14 ~ 2022.10.31
 + **개발 웹서버**: Apache Tomcat 9.0
 + **개발 툴**: Eclipse IDE, Oracle SQL Developer
 + **사용 언어**: Java(JDK 1.8), SQL, JSP & Servlet, HTML/CSS, JavaScript
 ## 역할 분담
-+ **서태우(팀원)**: DB 설계, 프론트엔드와 백엔드 개발(커뮤니티 / 스토어)
-+ **안지수(팀장)**: DB 설계, 프론트엔드와 백엔드 개발(회원관리 / 커뮤니티)
-+ **임다은(팀원)**: DB 설계, 프론트엔드와 백엔드 개발(스토어 / 마이페이지)
+![4](https://user-images.githubusercontent.com/107123698/209478254-581fbf16-3ad6-41a1-9a81-98039a27b990.png)
 + **조아현(팀원)**: DB 설계, 프론트엔드와 백엔드 개발(나의쇼핑 / 판매자)
+
 ## DB 설계
 ![DB](https://user-images.githubusercontent.com/80879666/199145974-cab664d9-335a-453b-ab99-45f1fbd72b27.png)
 ### 커뮤니티
@@ -39,3 +43,11 @@
 + **주문/결제**: 주문상품(ORDER_PRODUCT), 주문/결제(ORDERS)
 + **문의 게시판**: 제품문의(PRODUCTINQUIRY), 제품문의댓글(PRODUCTINQUIRY_COM)
 + **리뷰 게시판**: 리뷰(REVIEWS)
+
+## 조아현
+![44](https://user-images.githubusercontent.com/107123698/209478325-bf3aa943-f20e-4619-b9e0-1b6e506ccd8c.png)
+![55](https://user-images.githubusercontent.com/107123698/209478295-c4ad1208-7234-4ab3-8d0b-f865d52b29a6.png)
+![56](https://user-images.githubusercontent.com/107123698/209478297-df14290b-49b2-4048-87ab-88fd9844e4e1.png)
+![57](https://user-images.githubusercontent.com/107123698/209478299-ff12356e-903a-47e0-8810-8fc4d3b87148.png)
+![58](https://user-images.githubusercontent.com/107123698/209478304-f6621762-0699-47d8-93f5-c924a6baca0f.png)
+![59](https://user-images.githubusercontent.com/107123698/209478305-48b49ffb-2c47-46d4-80a4-04440bfcc250.png)
