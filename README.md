@@ -19,7 +19,7 @@
 + **프로젝트 기간**: 2022.10.14 ~ 2022.10.31
 + **개발 웹서버**: Apache Tomcat 9.0
 + **개발 툴**: Eclipse IDE, Oracle SQL Developer
-+ **사용 언어**: Java(JDK 1.8), SQL, JSP & Servlet, HTML/CSS, JavaScript
++ **사용 언어**: Java(JDK 1.8), SQL, Servlets & JSP, HTML/CSS, JavaScript
 ## 역할 분담
 ![4](https://user-images.githubusercontent.com/107123698/209478254-581fbf16-3ad6-41a1-9a81-98039a27b990.png)
 + **조아현(팀원)**: DB 설계, 프론트엔드와 백엔드 개발(나의쇼핑 / 판매자)
